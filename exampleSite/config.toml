@@ -66,7 +66,7 @@ link = "plugins/search/search.js"
 URL = "https://twitter.com/mathorealim"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "https://www.linkedin.com/company/cloudonfleek/"
+URL = "https://www.linkedin.com/company/mathorealim"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "https://github.com/CloudOnFleek"
