@@ -1,6 +1,6 @@
 ---
 title: Second Blog Post Ever
-date: 2020-03-30T04:46:10-04:00
+date: 2020-03-30T08:46:10.000+00:00
 description: This is meta description
 type: post
 image: "/images/man-holding-macbook-pro-3206168.jpg"
@@ -8,6 +8,7 @@ categories:
 - DevSecOps
 tags:
 - DevSecOps
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
