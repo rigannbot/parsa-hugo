@@ -2,7 +2,6 @@
 categories = ["plat principal"]
 date = 2020-04-28T04:00:00Z
 description = "Riz Loc Loc à la façon Khmer"
-draft = true
 image = "/images/cover.jpg"
 tags = ["riz", "plat principale"]
 title = "Riz Loc Lac"
