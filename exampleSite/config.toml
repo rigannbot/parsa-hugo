@@ -1,9 +1,9 @@
-baseURL = "https://cloudonfleek.netlify.com"
-languageCode = "en-us"
+baseURL = "https://rigann-dev.netlify.app"
+languageCode = "fr-fr"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Cloud on Fleek | Cloud Security Blog "
+title = "Cuisine et moi !"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -16,12 +16,12 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Themefisher"
+author = "Mathorea"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Passionnée par la cuisine et art culinaire depuis mon enfance"
 contact_form_action = ""
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+copyright = "Copyright Mathorea"
+description = ""
 email = ""
 google_analitycs_id = "Your ID"
 home = "Home"
@@ -63,7 +63,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://twitter.com/cloudonfleek"
+URL = "https://twitter.com/mathorealim"
 icon = "ti-twitter-alt"
 [[params.social]]
 URL = "https://www.linkedin.com/company/cloudonfleek/"
